@@ -161,7 +161,8 @@ html{
 
 /* start landing */
   .landing{
-    background-image: url(../imges/black\ end\ white.jpeg);
+    background-image: url(../imges/landing.jpg);
+    background-position: center;
     height: calc(100vh - 77px);
     background-size: cover;
     position: relative;
